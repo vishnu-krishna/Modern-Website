@@ -12,6 +12,7 @@ import { Analytics } from "@vercel/analytics/react"
 const App = () => {
   return (
     <>
+        <Analytics/>
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
         <Hero />
