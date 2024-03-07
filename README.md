@@ -38,6 +38,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+<div align="center">
+     Live website is deployed <a href="https://modern-website-4dso9zz1q-vishnucute05s-projects.vercel.app/" target="_blank"><b>HERE</b></a>.
+    </div>
+<br/>
+<br/>
+
 
 
 
